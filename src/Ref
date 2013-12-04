@@ -1,0 +1,4 @@
+b.read(fileData);
+			for(int i=0;i<fileData.length;i++){
+			    decodeFileDate = decodeFileDate+String.valueOf((char)fileData[i]);
+}
